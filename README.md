@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charles-Ay
+- 👋 Hi, I’m Charles Ayeni
 - 👀 I’m interested in ML, AI, Data-Intelligence and Game Dev
 - 🌱 I’m currently learning WebScrapping
 - 💞️ I’m looking to collaborate on my StockAI
