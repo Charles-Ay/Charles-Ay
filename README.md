@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charles Ayeni
 - 👀 I’m interested in ML, AI, Data-Intelligence and Game Dev
-- 🌱 I’m currently learning WebScrapping
+- 🌱 I’m currently learning OpenGL
 - 💞️ I’m looking to collaborate on my StockAI or NovelReader
 - 📫 How to reach me charles.work20@gmail.com
 
